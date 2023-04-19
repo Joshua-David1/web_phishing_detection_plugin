@@ -82,3 +82,4 @@ Feature importance for Phishing URL Detection
 3. The final conclusion on the Phishing dataset is that the some feature like "HTTTPS", "AnchorURL", "WebsiteTraffic" have more importance to classify URL is phishing URL or not. 
 4. Gradient Boosting Classifier currectly classify URL upto 97.4% respective classes and hence reduces the chance of malicious attachments.
 Web phishing detection
+# web_phishing_detection_plugin
